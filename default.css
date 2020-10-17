@@ -1,14 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
 
 /** BASIC */
 
-@font-face {
-     font-family: "I.MINGCP";
-     src: url("fonts/I.MINGCP-7.00.woff");
-}
-
 body {
 	text-align: justify;
-	font-family: "I.MINGCP";
+	font-family: 'Noto Serif KR', serif;
 	color: #333333;
 	background: whitesmoke;
 }
