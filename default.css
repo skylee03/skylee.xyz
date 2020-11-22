@@ -1,10 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
-
 /** BASIC */
 
 body {
 	text-align: justify;
-	font-family: 'Noto Serif KR', serif;
+	/*font-family: 'Noto Serif KR', serif;*/
 	color: #333333;
 	background: whitesmoke;
 }
