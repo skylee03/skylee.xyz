@@ -21,7 +21,7 @@
 	font-language-override: "ZHT";
 }
 :lang(zh-Hant) {
-	font-family: 'Montaga', "Noto Serif KR", serif;
+	font-family: 'Montaga', "Noto Serif KR", "Noto Serif TC", serif;
 	font-language-override: "KOR";
 }
 :lang(en),
