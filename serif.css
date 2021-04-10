@@ -1,15 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap');
 
 :lang(zh-Hant), :lang(zh-TW), :lang(zh-HK) {
-	font-family: "EB Garamond", "Noto Serif KR", "Noto Serif TC", serif;
+	font-family: "Domine", "Noto Serif KR", "Noto Serif TC", serif;
 }
 :lang(zh-Hans), :lang(zh-CN) {
-	font-family: "EB Garamond", "Noto Serif SC", serif;
+	font-family: "Domine", "Noto Serif SC", serif;
 }
 :lang(en) {
-	font-family: "EB Garamond", serif;
+	font-family: "Domine", serif;
 }
