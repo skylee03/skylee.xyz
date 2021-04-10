@@ -1,41 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;700&family=Noto+Serif+JP:wght@400;700&family=Noto+Serif+KR:wght@400;700&family=Noto+Serif+SC:wght@400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Montaga&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP&display=swap');
 
-:lang(zh-CN), :lang(zh-Hans) {
-	font-family: 'Montaga', "Noto Serif SC", serif;
-	font-language-override: "ZHS";
+:lang(zh-Hant), :lang(zh-TW), :lang(zh-HK) {
+	font-family: "EB Garamond", "Noto Serif KR", "Noto Serif TC", serif;
 }
-:lang(ja) {
-	font-family: 'Montaga', "Noto Serif JP", serif;
+:lang(zh-Hans), :lang(zh-CN) {
+	font-family: "EB Garamond", "Noto Serif SC", serif;
 }
-:lang(ko) {
-	font-family: 'Montaga', "Noto Serif KR", serif;
-}
-:lang(zh-HK) {
-	font-family: 'Montaga', "Noto Serif TC", serif;
-	font-language-override: "ZHH";
-}
-:lang(zh-TW) {
-	font-family: 'Montaga', "Noto Serif TC", serif;
-	font-language-override: "ZHT";
-}
-:lang(zh-Hant) {
-	font-family: 'Montaga', "Noto Serif KR", "Noto Serif TC", serif;
-	font-language-override: "KOR";
-}
-:lang(en),
-:lang(zh-Latn),
-:lang(cmn-Latn),
-:lang(ltc-Latn),
-:lang(lzh-Latn),
-:lang(och-Latn),
-:lang(yue-Latn),
-:lang(ja-Latn),
-:lang(ko-Latn) {
-	font-family: 'Montaga', sans-serif;
-}
-:lang(en-x-code) {
-	font-family: 'Fira Code', monospace, "Noto Serif KR", serif;
-	font-language-override: "KOR";
+:lang(en) {
+	font-family: "EB Garamond", serif;
 }
