@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Domine&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+TC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR&display=swap');
@@ -12,4 +13,8 @@
 }
 :lang(en) {
 	font-family: "Domine", serif;
+}
+
+:lang(en-x-code) {
+	font-family: "Inconsolata", monospace, "Noto Serif KR", "Noto Serif TC", serif;
 }
